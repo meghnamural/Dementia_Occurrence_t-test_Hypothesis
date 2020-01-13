@@ -1,4 +1,4 @@
-# Demetia-Occurrence
+# Dementia-Occurrence
 Estimation of dementia occurrence from MRI Data using test hypothesis
 
 Alzheimer's disease is a progressive disease that destroys memory and other important mental functions. Memory loss and confusion are the main symptoms of this condition. 
@@ -21,14 +21,14 @@ The Clinical Dementia Rating (CDR) is a widely utilized clinical tool for gradin
 
 We base our hypothesis on the normal levels of CDR and determine the affinity of two samples to dementia. The population means are given in the table below,
 
-![](/Users/Meghna/Desktop/table.png)
+![](/images/table.png)
 
 The above table gives a clear listing of the normal rates of CDR, MMSE, eTIV and nWBV.
 
 
 Below is the Age vs CDR composition in our dataset
 
-![](/Users/Meghna/Desktop/image1.png)
+![](/images/image1.png)
 
 ## Test Hypothesis
 
@@ -42,12 +42,18 @@ One way to test this is by conducting a Student's t-test on the basis of the nor
 
 * Mini Mental Status Examination (MMSE)
 
-![](/Users/Meghna/Desktop/MMSE.png)
+![](/images/MMSE.png)
 
 * Estimated Total Intracranial Volume(eTIV)
 
-![](/Users/Meghna/Desktop/eTIV.png)
+![](/images/eTIV.png)
 
 * Normalize Whole Brain Volume(nWBV)
 
-![](/Users/Meghna/Desktop/nWBV.png)
+![](/images/nWBV.png)
+
+## Source
+
+Outcome and Assessment Information Set (OASIS) from CMS.gov
+
+https://www.kaggle.com/jboysen/mri-and-alzheimers
