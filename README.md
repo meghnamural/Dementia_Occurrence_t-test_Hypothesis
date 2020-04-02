@@ -52,6 +52,10 @@ One way to test this is by conducting a Student's t-test on the basis of the nor
 
 ![](/images/nWBV.png)
 
+## Software
+
+R statistical package
+
 ## Source
 
 Outcome and Assessment Information Set (OASIS) from CMS.gov
